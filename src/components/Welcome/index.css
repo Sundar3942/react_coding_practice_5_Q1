@@ -1,0 +1,24 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+.page {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  font-size: 45px;
+  color: #f0bb03;
+}
+.para {
+  color: white;
+  font-size: 28px;
+}
+.btn {
+  background-color: white;
+  color: #1e293b;
+}
